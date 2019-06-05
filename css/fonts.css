@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Gotham Office';
+    src: url('fonts/GothamOffice-Regular.eot');
+    src: url('fonts/GothamOffice-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GothamOffice-Regular.woff2') format('woff2'),
+        url('fonts/GothamOffice-Regular.woff') format('woff'),
+        url('fonts/GothamOffice-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Office';
+    src: url('fonts/GothamOffice-Bold.eot');
+    src: url('fonts/GothamOffice-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GothamOffice-Bold.woff2') format('woff2'),
+        url('fonts/GothamOffice-Bold.woff') format('woff'),
+        url('fonts/GothamOffice-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Office';
+    src: url('fonts/GothamOffice-Italic.eot');
+    src: url('fonts/GothamOffice-Italic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GothamOffice-Italic.woff2') format('woff2'),
+        url('fonts/GothamOffice-Italic.woff') format('woff'),
+        url('fonts/GothamOffice-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gotham Office';
+    src: url('fonts/GothamOffice-BoldItalic.eot');
+    src: url('fonts/GothamOffice-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GothamOffice-BoldItalic.woff2') format('woff2'),
+        url('fonts/GothamOffice-BoldItalic.woff') format('woff'),
+        url('fonts/GothamOffice-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
